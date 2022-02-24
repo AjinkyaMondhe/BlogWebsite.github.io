@@ -134,7 +134,7 @@ margin-right: auto;
 
 .banner{
   min-height: 80vh;
-  background:url(images/banner.png) no-repeat ;
+  background:url(..images/banner.png) no-repeat ;
   background-size: cover;
   background-position: center;
   display: grid;
